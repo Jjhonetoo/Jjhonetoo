@@ -17,17 +17,14 @@ Here are some ideas to get you started:
 <h1 align="center">João Lincoln</h1>
 
 <p align="center">
-    <a href="mailto:vitorlostada@hotmail.com">
+    <a href="mailto:joaolincolnneto@gmail.com">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com//in/joao-lincoln/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/dudu-cardoso/">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.youtube.com/channel/UCSWhO4BUp3e8WjFv35gtxag" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-    </a>
+   
 </p>
 
 <div align="center">
