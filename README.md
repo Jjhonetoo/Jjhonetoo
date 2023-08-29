@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorLostadaC&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
-
+### Hi, I'm João Lincoln 👋 I've always liked programming and I can't see myself working in another area.
 <br/>
-### 🛠 Languages and Tools
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,java,css,html,react,nodejs,mysql&perline=9" />
 </p>
