@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,nextjs,nodejs,nest,graphql,apollo,mysql,mongodb,supabase,docker,linux,jest,firebase,figma,express,materialui,postgres&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,css,html,react,nodejs,mysql,postgres&perline=9" />
 </p>
 
 
