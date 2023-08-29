@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 - 👨🏻‍💻 Developer in traning
-- 🎓 Young Programmer Project at [SENAC](http://ufape.edu.br/)
+- 🎓 Young Programmer Project at [SENAC](http://portal.sc.senac.br/)
 - 🔭 Worked on [Enzitech](https://github.com/bcccoworkingufape/enzitech_app) project at [BCC Coworking](http://bcccoworking.ufape.edu.br/)
 - 🐦 I’m currently learning **Dart** and **Flutter**, and most of my developments are with this language and framework too
 - 🤓 Interest in **Mobile development** and **Data Science**.
