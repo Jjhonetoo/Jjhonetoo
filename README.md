@@ -2,6 +2,7 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/joao-lincoln/">João Lincoln 😃️</a>
   </h1>
+  
 ### 🧔🏻 About me
 
 - 👨🏻‍💻 Developer in traning
