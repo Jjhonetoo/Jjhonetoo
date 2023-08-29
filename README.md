@@ -32,9 +32,8 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
-
+### 🛠 Languages and Tools
 <p align="center">
-    ### 🛠 Languages and Tools
     <img src="https://skillicons.dev/icons?i=js,java,css,html,react,nodejs,mysql&perline=9" />
 </p>
 
