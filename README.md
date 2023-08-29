@@ -1,5 +1,7 @@
-<h1 align="left">João Lincoln</h1>
-
+  <h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/joao-lincoln/">João Lincoln 😃️</a>
+  </h1>
 ### 🧔🏻 About me
 
 - 👨🏻‍💻 Developer in traning
@@ -25,6 +27,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolincoln&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
 
+<br/>
+
+<div align="center">
+  
+ ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
 
