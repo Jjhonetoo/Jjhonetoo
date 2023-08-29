@@ -14,7 +14,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">João Lincoln</h1>
+<h1 align="left">João Lincoln</h1>
+
+
+### 🧔🏻 About me
+
+
+- 👨🏻‍💻 Developer in traning
+- 🎓 Young Programmer Project at [SENAC](http://ufape.edu.br/)
+- 🔭 Worked on [Enzitech](https://github.com/bcccoworkingufape/enzitech_app) project at [BCC Coworking](http://bcccoworking.ufape.edu.br/)
+- 🐦 I’m currently learning **Dart** and **Flutter**, and most of my developments are with this language and framework too
+- 🤓 Interest in **Mobile development** and **Data Science**.
+- 💬 Ask me about anything [here][telegram]
+
+<br/>
+
+### 🛠 Languages and Tools
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,java,css,html,react,nodejs,mysql&perline=9" />
+</p>
+
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolincoln&layout=compact&langs_count=7&theme=dark"/></a>
+</div>
+
+
+<br/>
+<div> 
+ 
+  <a href = "mailto:joaolincolnneto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-lincoln/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+
+
+
 
 <p align="center">
     <a href="mailto:joaolincolnneto@gmail.com">
@@ -26,26 +65,3 @@ Here are some ideas to get you started:
     </a>
    
 </p>
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolincoln&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
-
-<br/>
-
-
-
-
-### 🛠 Languages and Tools
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=js,java,css,html,react,nodejs,mysql&perline=9" />
-</p>
-
-
-<br/>
-<div> 
- 
-  <a href = "mailto:joaolincolnneto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-lincoln/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
