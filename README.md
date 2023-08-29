@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,java,css,html,react,scrum,nodejs,mysql&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,java,css,html,react,Excel,nodejs,mysql&perline=9" />
 </p>
 
 
