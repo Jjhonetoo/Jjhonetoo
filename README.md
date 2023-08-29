@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
+    ### 🛠 Languages and Tools
     <img src="https://skillicons.dev/icons?i=js,java,css,html,react,nodejs,mysql&perline=9" />
 </p>
 
