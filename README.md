@@ -15,7 +15,7 @@
 
 ### 🛠 Languages and Tools
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=js,java,css,html,react,nodejs,spring,mysql&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,java,css,html,react,nodejs,aws,spring,mysql&perline=9" />
 </p>
 
 <br/>
