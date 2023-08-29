@@ -3,11 +3,11 @@
     <a href="https://www.linkedin.com/in/joao-lincoln/">João Lincoln 😃️</a>
   </h1>
   
-### 🧔🏻 About me
+### 🧔🏻 Sobre mim
 
-- 👨🏻‍💻 Developer in traning
-- 🎓 Young Programmer Project at [SENAC/SC](http://portal.sc.senac.br/)
-- 💬 Ask me about anything [here][whatsapp]
+- 👨🏻‍💻 Desenvolvedor em formação
+- 🎓 Projeto Jovem Programador no [SENAC/SC](http://portal.sc.senac.br/)
+- 💬 Pergunte-me sobre qualquer coisa [aqui][whatsapp]
   
 <div>  
   <a href = "mailto:joaolincolnneto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,7 +16,7 @@
 
 <br/>
 
-### 🛠 Languages and Tools
+### 🛠 Linguagens e ferramentas
 <p align="left">
     <img src="https://skillicons.dev/icons?i=js,java,css,html,react,nodejs,aws,spring,mysql&perline=9" />
 </p>
